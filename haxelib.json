@@ -1,0 +1,14 @@
+{
+  "name": "gamesdk-core",
+  "url": "https://github.com/zygameui/gamesdk-core",
+  "license": "MIT",
+  "tags": [],
+  "description": "",
+  "version": "4.0.3",
+  "releasenote": "",
+  "contributors": [""],
+  "dependencies": {
+
+  },
+  "classPath":"src"
+}
